@@ -2,11 +2,11 @@
 Machine Learning models in python and notes about machine learning algorithms
 
 ### the scope of algorithms
-Logistic Regression (l1, l2, elastic net regularization)
-Support Vector Machine
-Decision Trees
-Ensemble learning (voting classifier, bagging, boosting, stacking)
-Dimensionality Reduction
+* Logistic Regression (l1, l2, elastic net regularization)
+* Support Vector Machine
+* Decision Trees
+* Ensemble learning (voting classifier, bagging, boosting, stacking)
+* Dimensionality Reduction
 
 ### Prerequisites
 make sure you have python3 installed on your machine.
