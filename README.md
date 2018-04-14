@@ -6,7 +6,7 @@ Build Machine Learning models in python (or R) and some notes about machine lear
 * Support Vector Machine (SVM classifier and SVM regressor. Use linear kernel and Gaussian RBF kernel)
 * Decision Trees
 * Ensemble learning (voting classifier, bagging, boosting, stacking)
-* Dimensionality Reduction (PCA, LDA, tSNE and other popular dimensionality reduction methods. Visulizations of reduction result.)
+* Dimensionality Reduction (PCA, LDA, tSNE and other popular dimensionality reduction methods. Visualizations of reduction result.)
 * linear regression (in R. EDA, Residual analysis, model validation, error diagnosis and remediation)
 
 ### Prerequisites
