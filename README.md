@@ -2,8 +2,8 @@
 Build Machine Learning models in python (or R) and some notes about machine learning algorithms
 
 ### the scope of algorithms
-* Logistic Regression (Regularized Logistic Regression. Use different metrics, such as precision, recall, f1 score, ROC and AUC to evaluate model performance)
-* Support Vector Machine (SVM classifier and SVM regressor. Use linear kernel and Gaussian RBF kernel)
+* Logistic Regression (Regularized Logistic Regression. Use different metrics to evaluate models, such as precision, recall, f1 score, ROC and AUC to evaluate model performance. Implemented Softmax Regression with Gradient Descent.)
+* Support Vector Machine (SVM classifier and SVM regressor. Use linear kernel and Gaussian RBF kernel.)
 * Decision Trees
 * Ensemble learning (voting classifier, bagging, boosting, stacking)
 * Dimensionality Reduction (PCA, LDA, tSNE and other popular dimensionality reduction methods. Visualizations of reduction result.)
